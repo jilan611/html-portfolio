@@ -1,2 +1,2 @@
 # html-portfolio
-My first html only protfolio
+My first html only portfolio
